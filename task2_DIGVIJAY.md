@@ -97,10 +97,10 @@ The email contains basic errors that are uncharacteristic of a professional orga
 
 ## 🎙️ Interview Questions & Answers
 
-### ### What is phishing?
+###  What is phishing?
 [cite_start]Phishing is a cyberattack where an attacker impersonates a trusted entity, like a bank or a known company, through deceptive communications like emails or websites. [cite: 55, 56] [cite_start]The primary goal is to use social engineering to trick victims into revealing sensitive information, such as login credentials or credit card numbers. [cite: 57] [cite_start]It’s essentially a digital con that preys on human trust. [cite: 58]
 
-### ### How do you identify a phishing email?
+###  How do you identify a phishing email?
 [cite_start]You can identify a phishing email by looking for several key red flags: [cite: 59]
 * [cite_start]**Mismatched Sender Address:** The domain name in the "From" address doesn't match the legitimate company's domain. [cite: 60]
 * [cite_start]**Generic Greetings:** It uses vague greetings like "Dear Valued Customer" instead of your actual name. [cite: 61]
@@ -108,18 +108,18 @@ The email contains basic errors that are uncharacteristic of a professional orga
 * [cite_start]**Suspicious Links/Attachments:** Hovering over a link reveals a URL that is different from the legitimate site. [cite: 63, 64] [cite_start]Unexpected attachments are also a major warning. [cite: 65]
 * [cite_start]**Spelling and Grammar Errors:** Obvious mistakes are a strong sign that the email is fraudulent. [cite: 66, 67]
 
-### ### What is email spoofing?
+###  What is email spoofing?
 [cite_start]Email spoofing is a technique where an attacker forges the sender's address in an email header to make the message appear as if it came from a legitimate or trusted source. [cite: 68, 69] [cite_start]It's a critical component of phishing because a convincing "From" address makes the entire scam much more believable. [cite: 70, 71]
 
-### ### Why are phishing emails so dangerous?
+###  Why are phishing emails so dangerous?
 [cite_start]Phishing emails are dangerous because they are a primary entry point for a wide range of cyberattacks, effectively bypassing technical security by targeting people. [cite: 72, 73]
 * [cite_start]**For an individual**, this can lead to identity theft and direct financial loss. [cite: 74]
 * [cite_start]**For a company**, one employee falling for a phish can lead to a full-scale data breach, ransomware infection, or massive financial fraud. [cite: 75] [cite_start]It's often the initial foothold attackers use to compromise an entire network. [cite: 76]
 
-### ### How can you verify a sender’s authenticity?
+###  How can you verify a sender’s authenticity?
 [cite_start]The safest way is to use an "out-of-band" method. [cite: 78] [cite_start]Never use the contact info provided in the suspicious email. [cite: 77] [cite_start]Instead, go directly to the company's official website by typing the address yourself or call a phone number you know to be legitimate, like the one on the back of your bank card. [cite: 79, 80] [cite_start]Technically, you can also analyze the email headers and check the SPF and DKIM authentication results; a "fail" status is a clear sign of spoofing. [cite: 81, 82]
 
-### ### What tools can analyze email headers?
+###  What tools can analyze email headers?
 [cite_start]There are several great online tools that parse raw email headers into a readable format. [cite: 83] Some of the most common are:
 * [cite_start]MxToolbox Email Header Analyzer [cite: 85]
 * [cite_start]Google Admin Toolbox Messageheader [cite: 86]
@@ -127,7 +127,7 @@ The email contains basic errors that are uncharacteristic of a professional orga
 
 [cite_start]These tools trace the email's path and clearly show the results of security checks like SPF, DKIM, and DMARC. [cite: 88]
 
-### ### What actions should be taken on suspected phishing emails?
+###  What actions should be taken on suspected phishing emails?
 [cite_start]First, do not interact with it—don't click links, download attachments, or reply. [cite: 89, 90] Then:
 1.  [cite_start]**Report it** using the "Report Phishing" feature in your email client. [cite: 92] [cite_start]This helps improve spam filters. [cite: 93]
 2.  [cite_start]In a corporate setting, **forward it to the IT/cybersecurity department** immediately. [cite: 94]
@@ -135,7 +135,7 @@ The email contains basic errors that are uncharacteristic of a professional orga
 
 [cite_start]If you accidentally clicked a link or entered credentials, you must change your password on that site and any other accounts using the same password immediately and report the incident. [cite: 97]
 
-### ### How do attackers use social engineering in phishing?
+###  How do attackers use social engineering in phishing?
 [cite_start]Social engineering is the core of phishing; it's the art of manipulating people. [cite: 98] [cite_start]Attackers use several psychological triggers: [cite: 99]
 * [cite_start]**Urgency and Fear:** They create a false emergency to cause panic and rush you into a mistake. [cite: 100]
 * [cite_start]**Authority:** They impersonate a person of power, like a CEO, to make their request seem non-negotiable. [cite: 101]
