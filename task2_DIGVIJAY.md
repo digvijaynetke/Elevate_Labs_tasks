@@ -22,6 +22,8 @@
 
 > #### 🖼️ Visual Evidence
 > **
+> <img width="646" height="377" alt="image" src="https://github.com/user-attachments/assets/f2caf36e-866d-40a5-856f-404a933d392a" />
+
 
 ### 1️⃣ Step 1: Examine Sender's Email Address
 
@@ -47,7 +49,8 @@ A deeper analysis of the email's (hypothetical) headers reveals multiple discrep
 The email's payload is delivered through a malicious hyperlink disguised as a button.
 
 > ####  malicious Call-to-Action (CTA) Button
-> **
+> *<img width="323" height="88" alt="image" src="https://github.com/user-attachments/assets/351f16de-eb78-414e-ac76-542b47be8faa" />
+*
 
 * [cite_start]**Analysis:** The email contains a large, blue **"Confirm Your Information"** button. [cite: 20] This is the central focus of the attack, designed to be the single action the user takes. [cite_start]The text leverages the urgent narrative of the email to seem like a necessary step. [cite: 21]
 
